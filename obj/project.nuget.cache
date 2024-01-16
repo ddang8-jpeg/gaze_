@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jwCtuhd/xh4cHv/eNJu5VXSy10VVm6+u2Y4UtTPKg7S20ElKR0ERGELap3s7dXpipdi/+zEDQ7+YSfJqDby6Sg==",
+  "success": true,
+  "projectFilePath": "D:\\Documents\\Real World Stuff\\HL2\\gaze_\\gaze_.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Derek\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

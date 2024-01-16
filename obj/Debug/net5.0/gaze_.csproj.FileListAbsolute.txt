@@ -1,0 +1,5 @@
+D:\Documents\Real World Stuff\HL2\gaze_\obj\Debug\net5.0\gaze_.csproj.AssemblyReference.cache
+D:\Documents\Real World Stuff\HL2\gaze_\obj\Debug\net5.0\gaze_.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Real World Stuff\HL2\gaze_\obj\Debug\net5.0\gaze_.AssemblyInfoInputs.cache
+D:\Documents\Real World Stuff\HL2\gaze_\obj\Debug\net5.0\gaze_.AssemblyInfo.cs
+D:\Documents\Real World Stuff\HL2\gaze_\obj\Debug\net5.0\gaze_.csproj.CoreCompileInputs.cache
